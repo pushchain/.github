@@ -38,9 +38,6 @@ dapps, wallets, and services.🚀</i>
 Push Protocol, previously known as EPNS, is a Web3 communication protocol that enables any dApps, smart contracts, backends, 
 or protocols to communicate both on-chain and off-chain via user wallet addresses in an open, gasless, multichain, and 
 platform-agnostic fashion.
-
-
-<br>
 <br>
 
 ## Welcome to the GitHub profile for Push Protocol
