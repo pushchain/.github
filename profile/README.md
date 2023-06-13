@@ -42,3 +42,27 @@ platform-agnostic fashion.
 
 <br>
 <br>
+
+## Welcome to the GitHub profile for Push Protocol
+
+📚 Read our comprehensive [documentation](https://docs.push.org) to learn how to start building with Push.
+
+📜 Read our Push Improvement Proposals (PIPs) to stay updated on the latest discussions, standards, and enhancements related to Push. You can find a collection of PIPs in the [PIPs](https://github.com/ethereum-push-notification-service/PIPs) repository.
+
+🏘️ Contribute to [Push DAO](https://pushprotocol.notion.site/Welcome-to-Push-DAO-b1c1e1281ce64400adaaae59f98e4d4c?pvs=4)
+
+👩🏻‍💻 To integrate or build with the Push Protocol, utilize the Push SDK, which offers an abstraction layer for incorporating Push protocol features into both your Frontend and Backend systems. [Push SDK](https://docs.push.org/developers/developer-tooling/push-sdk)
+
+
+
+
+## Social Links
+
+Follow us to stay updated with the latest news and updates!
+
+- [Twitter](https://twitter.com/pushprotocol)
+- [LinkedIn](https://www.linkedin.com/company/pushprotocol/)
+- [Website](https://push.org)
+- [Discord](https://discord.com/invite/pushprotocol)
+- [Medium](https://medium.com/push-protocol)
+
