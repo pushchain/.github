@@ -16,7 +16,7 @@ dapps, wallets, and services.🚀</i>
 
 <h4 align="center">
 
-  <a href="discord.gg/pushprotocol">
+  <a href="https://discord.com/invite/pushprotocol">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
   <a href="https://twitter.com/pushprotocol">
@@ -58,8 +58,9 @@ platform-agnostic fashion.
 Follow us to stay updated with the latest news and updates!
 
 - [Twitter](https://twitter.com/pushprotocol)
-- [LinkedIn](https://www.linkedin.com/company/pushprotocol/)
-- [Website](https://push.org)
 - [Discord](https://discord.com/invite/pushprotocol)
+- [Website](https://push.org)
 - [Medium](https://medium.com/push-protocol)
+- [LinkedIn](https://www.linkedin.com/company/pushprotocol/)
+
 
