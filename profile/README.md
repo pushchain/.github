@@ -39,43 +39,6 @@ Push Protocol, previously known as EPNS, is a Web3 communication protocol that e
 or protocols to communicate both on-chain and off-chain via user wallet addresses in an open, gasless, multichain, and 
 platform-agnostic fashion.
 
-#### What We Do
-
-Being an open communication middleware, Push is building a suite of products to enable notifications, chats, streaming, and 
-more. We currently have two major products, Push Notifications and Push Chat.
-
-<details open>
-<summary>
- Features
-</summary>
-  <br>
-  
-  <p align="center">
-    <img width="49%" src="https://res.cloudinary.com/drdjegqln/image/upload/v1686231190/push-notifications_tkjhss.png" 
-alt="apis"/>
-&nbsp;
-    <img width="49%" src="https://res.cloudinary.com/drdjegqln/image/upload/v1686231185/W2W_20Chat_eurjgu.png" 
-alt="data-models"/>
-</p>
-
-
-    
-<p align="center">
-    <img width="49%" src="https://res.cloudinary.com/drdjegqln/image/upload/v1686231164/Untitled-2_fedru3.png" 
-alt="own-your-code"/>
-&nbsp;
-    <img width="49%" src="https://res.cloudinary.com/drdjegqln/image/upload/v1686231177/Untitled_vhvrfc.png" 
-alt="customize-code"/>
-</p>
-   
-  <p align="center">
-    <img width="49%" 
-src="https://res.cloudinary.com/drdjegqln/image/upload/v1686231162/1_LbhU9-qGnE8QPxWBQgNqQQ_xzkmpp.webp" 
-alt="own-your-code"/>
-&nbsp;
- 
-</p>
-</details>
 
 <br>
 <br>
