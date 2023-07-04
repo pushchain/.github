@@ -27,9 +27,9 @@ dapps, wallets, and services.🚀</i>
   </a>
 </h4>
 
-<p align="center">
-    <img src="https://res.cloudinary.com/drdjegqln/image/upload/v1686230764/1500x500_bhmpkc.jpg" alt="dashboard"/>
-</p>
+![image](https://github.com/ethereum-push-notification-service/.github/assets/12568291/458a1100-39b9-41df-9f3b-9eb2e16d9042)
+
+
 
 
 ## Introduction
