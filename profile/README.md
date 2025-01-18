@@ -57,7 +57,7 @@ platform-agnostic fashion.
 
 Follow us to stay updated with the latest news and updates!
 
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pushprotocol)
+- [![Twitter](https://img.shields.io/twitter/follow/push-protocol)](https://x.com/pushprotocol)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/pushprotocol)
 - [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://push.org)
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/push-protocol)
