@@ -19,8 +19,8 @@ dapps, wallets, and services.🚀</i>
   <a href="https://discord.com/invite/pushprotocol">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
-  <a href="https://twitter.com/pushprotocol">
-    <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
+  <a href="https://x.com/pushprotocol">
+    <img src="https://img.shields.io/twitter/follow/push-protocol" alt="twitter">
   </a>
   <a href="https://www.youtube.com/@pushprotocol">
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
