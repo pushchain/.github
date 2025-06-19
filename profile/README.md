@@ -10,58 +10,52 @@ src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Sta
 </h1>
 
 <p align="center">
-  <i align="center">Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for 
-dapps, wallets, and services.🚀</i>
+  <i align="center">Push Chain is a true universal L1 that allows you to deploy once and instantly get access to any chain users.🚀</i>
 </p>
-
-<h4 align="center">
-
-  <a href="https://discord.com/invite/pushprotocol">
-    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
-  </a>
-  <a href="https://twitter.com/pushprotocol">
-    <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
-  </a>
-  <a href="https://www.youtube.com/@pushprotocol">
-    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
-  </a>
-</h4>
 
 ![image](https://github.com/ethereum-push-notification-service/.github/assets/12568291/458a1100-39b9-41df-9f3b-9eb2e16d9042)
 
 
 
 
-## Introduction
-#### What is Push Protocol?
+## Welcome to Push Chain GitHub
 
-Push Protocol, previously known as EPNS, is a Web3 communication protocol that enables any dApps, smart contracts, backends, 
-or protocols to communicate both on-chain and off-chain via user wallet addresses in an open, gasless, multichain, and 
-platform-agnostic fashion.
+Push Chain is a true **universal L1 that is 100% EVM compatible**. 
+
+It allows developers to deploy once and make their apps instantly compatible with users from all other L1s and L2s (Ethereum, Solana, Base, etc).
+
+
 <br>
 
-## Welcome to the GitHub profile for Push Protocol
+### Start Here
 
+1. Start with a [**brief introduction to Push Chain**](https://push.org/docs/chain/)
+2. Follow our [**Quickstart Guide**](https://push.org/docs/chain/quickstart/) to get started in less than 2 mins
+3. Learn the [**use-cases you can build today](https://push.org/docs/chain/use-cases/)** with Push Chain
+4. Explore our [Tutorials to create a true universal app](https://push.org/docs/chain/tutorials/)
 📚 Read our comprehensive [documentation](https://docs.push.org) to learn how to start building with Push.
 
-📜 Read our Push Improvement Proposals (PIPs) to stay updated on the latest discussions, standards, and enhancements related to Push. You can find a collection of PIPs in the [PIPs](https://github.com/ethereum-push-notification-service/PIPs) repository.
+<br>
 
-🏘️ Contribute to [Push DAO](https://pushprotocol.notion.site/Welcome-to-Push-DAO-b1c1e1281ce64400adaaae59f98e4d4c?pvs=4)
+### Learn and Build
 
-👩🏻‍💻 To integrate or build with the Push Protocol, utilize the Push SDK, which offers an abstraction layer for incorporating Push protocol features into both your Frontend and Backend systems. [Push SDK](https://docs.push.org/developers/developer-tooling/push-sdk)
+1. Learn the [Important Concepts of Push Chain](https://push.org/docs/chain/important-concepts/)
+2. Send your [first Universal Transaction](https://push.org/docs/chain/build/send-universal-transaction/)
+3. Follow our [SDK Guide](https://push.org/docs/chain/build/) to simplify your app development
+4. Follow [Smart Contract Guide](https://push.org/docs/chain/setup/smart-contract-environment/) to start with smart contract development
 
 
+<br>
 
+### Security Disclosures
+To report a vulnerability found in node, sdk or contracts of Push Chain, we request you to drop an email to **security@push.org**
+> Push Chain Bug Bounty is not live yet. Once active, whitehats can directly submit issues on the respective bug bounty platform as well.
 
-## Social Links
+### Social Links
 
 Follow us to stay updated with the latest news and updates!
 
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pushprotocol)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/pushprotocol)
-- [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://push.org)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/push-protocol)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pushprotocol/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://push.org) • [![Docs](https://img.shields.io/badge/Docs-000000?style=flat-square&logo=gitbook&logoColor=white)](https://docs.push.org) • [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/PushChain) • [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pushprotocol) • [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/pushprotocol)
 
 
 
