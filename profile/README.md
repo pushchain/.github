@@ -10,8 +10,8 @@ src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Sta
 </h1>
 
 <p align="center">
-  <i align="center">Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for 
-dapps, wallets, and services.🚀</i>
+  <i align="center">The first Layer 1 built for Universal Apps. Build & Deploy once, onboard users from any chain.
+</i>
 </p>
 
 <h4 align="center">
@@ -33,22 +33,17 @@ dapps, wallets, and services.🚀</i>
 
 
 ## Introduction
-#### What is Push Protocol?
+#### What is Push Chain?
 
-Push Protocol, previously known as EPNS, is a Web3 communication protocol that enables any dApps, smart contracts, backends, 
-or protocols to communicate both on-chain and off-chain via user wallet addresses in an open, gasless, multichain, and 
-platform-agnostic fashion.
+Push Chain is the first True Universal Layer 1 blockchain, built as a 100% EVM-compatible Proof of Stake (PoS) chain on Cosmos SDK. It runs seamlessly across every chain and wallet.
+<br>
+Write your smart contract once, deploy it on Push Chain, and instantly reach users on Ethereum, Solana, and all other supported chains without changing on-chain code.
 <br>
 
-## Welcome to the GitHub profile for Push Protocol
+## Welcome to the GitHub profile for Push Chain
 
 📚 Read our comprehensive [documentation](https://docs.push.org) to learn how to start building with Push.
 
-📜 Read our Push Improvement Proposals (PIPs) to stay updated on the latest discussions, standards, and enhancements related to Push. You can find a collection of PIPs in the [PIPs](https://github.com/ethereum-push-notification-service/PIPs) repository.
-
-🏘️ Contribute to [Push DAO](https://pushprotocol.notion.site/Welcome-to-Push-DAO-b1c1e1281ce64400adaaae59f98e4d4c?pvs=4)
-
-👩🏻‍💻 To integrate or build with the Push Protocol, utilize the Push SDK, which offers an abstraction layer for incorporating Push protocol features into both your Frontend and Backend systems. [Push SDK](https://docs.push.org/developers/developer-tooling/push-sdk)
 
 
 
@@ -57,11 +52,9 @@ platform-agnostic fashion.
 
 Follow us to stay updated with the latest news and updates!
 
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pushprotocol)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pushchain)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/pushprotocol)
 - [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://push.org)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/push-protocol)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pushprotocol/)
-
+- [![Blog](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://push.org/blog/)
 
 
