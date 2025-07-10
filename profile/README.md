@@ -10,7 +10,7 @@ src="https://github.com/user-attachments/assets/e16c0bfe-e455-42dd-bffe-6b822dc6
 </h1>
 
 <p align="center">
-  <i align="center">The first Layer 1 built for Universal Apps. Build & Deploy once, onboard users from any chain.
+  <i align="center">The first Blockchain built for Universal Apps. Build & Deploy once, onboard users from any chain.
 </i>
 </p>
 
