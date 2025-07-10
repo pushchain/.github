@@ -22,9 +22,6 @@ src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Sta
   <a href="https://x.com/pushchain">
     <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
   </a>
-  <a href="https://www.youtube.com/@pushprotocol">
-    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
-  </a>
 </h4>
 
 ![image](https://github.com/ethereum-push-notification-service/.github/assets/12568291/458a1100-39b9-41df-9f3b-9eb2e16d9042)
