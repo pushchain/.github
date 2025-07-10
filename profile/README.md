@@ -19,7 +19,7 @@ src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Sta
   <a href="https://discord.com/invite/pushprotocol">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
-  <a href="https://twitter.com/pushprotocol">
+  <a href="https://x.com/pushchain">
     <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
   </a>
   <a href="https://www.youtube.com/@pushprotocol">
