@@ -1,11 +1,11 @@
 <h1 align="center">
     <a href="https://push.org/#gh-light-mode-only">
-    <img width='20%' height='10%' 
-src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227557/Push-Logo-Standard-Dark_xap7z5.png">
+    <img width='30%' height='60%' 
+src="https://github.com/user-attachments/assets/c361465a-1ebc-4593-95fa-1eff44baf3e0">
     </a>
     <a href="https://push.org/#gh-dark-mode-only">
-    <img width='20%' height='10%' 
-src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Standard-White_dlvapc.png">
+    <img width='30%' height='60%' 
+src="https://github.com/user-attachments/assets/e16c0bfe-e455-42dd-bffe-6b822dc69693">
     </a>
 </h1>
 
@@ -24,8 +24,8 @@ src="https://res.cloudinary.com/drdjegqln/image/upload/v1686227558/Push-Logo-Sta
   </a>
 </h4>
 
-![image](https://github.com/ethereum-push-notification-service/.github/assets/12568291/458a1100-39b9-41df-9f3b-9eb2e16d9042)
 
+<img width="3200" height="1800" alt="UNI SDK" src="https://github.com/user-attachments/assets/0f6a401d-a979-4b3a-a84a-d8f78b663887" />
 
 
 
