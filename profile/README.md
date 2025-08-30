@@ -2,10 +2,6 @@
     <a href="https://push.org/#gh-light-mode-only">
         <img width="1600" height="900" alt="UNI SDK" src="https://github.com/user-attachments/assets/9e7eaab1-282c-41da-837d-a40cba3249d2" />
     </a>
-    <a href="https://push.org/#gh-dark-mode-only">
-    <img width="1529" height="802" alt="10xUsers" src="https://github.com/user-attachments/assets/f15cfb0d-370f-4b35-b48f-cfbacdc07075" />
-
-    </a>
 </h1>
 
 <p align="center">
