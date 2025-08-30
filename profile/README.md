@@ -1,16 +1,22 @@
-<h1 align="center">
+
+<h1 align="center">Push Chain — Univeral Blockchain for Apps
+    <br />&nbsp;<br />
     <a href="https://push.org/#gh-light-mode-only">
         <img width="1600" height="900" alt="UNI SDK" src="https://github.com/user-attachments/assets/9e7eaab1-282c-41da-837d-a40cba3249d2" />
     </a>
+    <a href="https://push.org/#gh-dark-mode-only">
+        <img width="1529" height="802" alt="10xUsers" src="https://github.com/user-attachments/assets/941d7e8e-37b6-449d-b920-a3f414663566" />
+    </a>
 </h1>
 
-<p align="center">
-  <i align="center">The first Blockchain built for Universal Apps. Build & Deploy once, onboard users from any chain.
+<h4>
+<p align="center">The first Blockchain built for Universal Apps.
+  <i align="center"><br />Build & Deploy once, onboard users from any chain.
 </i>
 </p>
+</h4>
 
 <h4 align="center">
-
   <a href="https://discord.com/invite/pushchain">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
@@ -18,11 +24,6 @@
     <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
   </a>
 </h4>
-
-
-<img width="3200" height="1800" alt="UNI SDK" src="https://github.com/user-attachments/assets/0f6a401d-a979-4b3a-a84a-d8f78b663887" />
-
-
 
 ## Introduction
 #### What is Push Chain?
