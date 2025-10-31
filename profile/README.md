@@ -2,12 +2,13 @@
 <h1 align="center">Push Chain — Univeral Blockchain for Apps
     <br />&nbsp;<br />
     <a href="https://push.org/#gh-light-mode-only">
-        <img width="1600" height="900" alt="UNI SDK" src="https://github.com/user-attachments/assets/9e7eaab1-282c-41da-837d-a40cba3249d2" />
+        <img width="1600" height="1275" alt="AppXChainLight" src="https://github.com/user-attachments/assets/b3f37863-6b93-4fcc-b94d-d970a84da57b" />
     </a>
     <a href="https://push.org/#gh-dark-mode-only">
-        <img width="1529" height="802" alt="10xUsers" src="https://github.com/user-attachments/assets/941d7e8e-37b6-449d-b920-a3f414663566" />
+        <img width="1600" height="1275" alt="AppXChainDark" src="https://github.com/user-attachments/assets/ea0bad87-1476-416a-b7a6-fa6d096b2a0d" />
     </a>
 </h1>
+
 
 <h4>
 <p align="center">The first Blockchain built for Universal Apps.
