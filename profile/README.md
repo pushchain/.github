@@ -1,12 +1,8 @@
 
 <h1 align="center">Push Chain — Univeral Blockchain for Apps
     <br />&nbsp;<br />
-    <a href="https://push.org/#gh-light-mode-only">
-        <img width="1600" height="1275" alt="AppXChainLight" src="https://github.com/user-attachments/assets/b3f37863-6b93-4fcc-b94d-d970a84da57b" />
-    </a>
-    <a href="https://push.org/#gh-dark-mode-only">
-        <img width="1600" height="1275" alt="AppXChainDark" src="https://github.com/user-attachments/assets/ea0bad87-1476-416a-b7a6-fa6d096b2a0d" />
-    </a>
+    <img width="1920" height="1415" alt="Why Push Chain is Powerful Min" src="https://github.com/user-attachments/assets/ccc04c2e-7190-470c-ab1c-5d7fe3e99f92" />
+
 </h1>
 
 
