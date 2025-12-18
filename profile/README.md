@@ -29,7 +29,7 @@ Push Chain is a true universal blockchain designed to eliminate fragmentation ac
 
 Developers deploy once and instantly become compatible with all supported EVM and non-EVM chains. Users use the same app no matter the chain they come from.
 <br><br>
-<b>To Summarize</b>: Write your smart contract once, deploy it on Push Chain, and instantly reach users on Ethereum, Solana, and all other supported chains without changing on-chain code.
+<b>Write your smart contract once, deploy it on Push Chain, and instantly reach users on Ethereum, Solana, and all other supported chains without changing on-chain code.</b>
 <br>
 
 ## Welcome to the GitHub profile for Push Chain
