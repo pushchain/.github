@@ -25,9 +25,11 @@
 ## Introduction
 #### What is Push Chain?
 
-Push Chain is the first True Universal Layer 1 blockchain, built as a 100% EVM-compatible Proof of Stake (PoS) chain on Cosmos SDK. It runs seamlessly across every chain and wallet.
+Push Chain is a true universal blockchain designed to eliminate fragmentation across all chains.
+
+Developers deploy once and instantly become compatible with all supported EVM and non-EVM chains. Users use the same app no matter the chain they come from.
 <br><br>
-Write your smart contract once, deploy it on Push Chain, and instantly reach users on Ethereum, Solana, and all other supported chains without changing on-chain code.
+<b>To Summarize</b>: Write your smart contract once, deploy it on Push Chain, and instantly reach users on Ethereum, Solana, and all other supported chains without changing on-chain code.
 <br>
 
 ## Welcome to the GitHub profile for Push Chain
